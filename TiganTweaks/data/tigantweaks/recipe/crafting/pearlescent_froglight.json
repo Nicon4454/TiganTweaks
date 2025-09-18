@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "A": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "B": {
+            "item": "minecraft:redstone_lamp"
+        }
+    },
+    "pattern": [
+        "BA ",
+        "   ",
+        "   "
+    ],
+    "result": {
+        "id": "minecraft:pearlescent_froglight"
+    }
+}
