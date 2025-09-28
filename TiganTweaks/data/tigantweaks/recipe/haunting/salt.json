@@ -1,0 +1,18 @@
+{
+    "type": "create:haunting",
+    "ingredients": [
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "results": [
+        {
+            "count": 16,
+            "id": "croptopia:salt"
+        },
+        {
+            "count": 1,
+            "id": "minecraft:bucket"
+        }
+    ]
+}
