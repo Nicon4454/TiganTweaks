@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "magic_coins:gold_coin"
+    }
+  ],
+  "result": {
+    "count": 50,
+    "id": "magic_coins:silver_coin"
+  }
+}
